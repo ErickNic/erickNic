@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 - 📫 How to reach me: ... -->
-- 😄 Pronouns: He/him
+- 😄 Pronouns: He/him.
 
